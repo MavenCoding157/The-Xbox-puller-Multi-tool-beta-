@@ -1,10 +1,10 @@
 #README.md
 
-![illuminati with xbox logo-8](https://user-images.githubusercontent.com/117538886/202870775-e06a8cc6-0279-4264-8ccc-0548780c2c61.png)
-
 Welcome to the 'Xbox puller multi tool' and in this readme file i will tell you how to log on and basic stuff like that.
 
 Login
+
+![Screenshot 2022-11-19 204004](https://user-images.githubusercontent.com/117538886/202870839-bc46b5f8-bf6c-46f9-b83b-89a77667e655.jpg)
 
 Username: root
 password: root
