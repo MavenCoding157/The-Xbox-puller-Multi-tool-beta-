@@ -25,7 +25,7 @@ there will also be other files with this tool (e.g. xbox_lookup) to use these ju
 
 **AND LAST THING!!!**
 
-                    **SUB TO MY CHANNEL**
+                      SUB TO MY CHANNEL
 
 ================================================
 
@@ -33,7 +33,7 @@ there will also be other files with this tool (e.g. xbox_lookup) to use these ju
 
 ================================================
 
-              **🌐 PLEASE VISIT MY WEBSITE 🌐**
+                🌐 PLEASE VISIT MY WEBSITE 🌐
 
 ================================================
 
