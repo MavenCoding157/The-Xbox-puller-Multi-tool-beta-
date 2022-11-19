@@ -2,6 +2,15 @@
 
 <img src="C:\Users\PC\Desktop\illuminati with xbox logo-8">
 
+
+
+
+
+
+
+
+
+
 Welcome to the 'Xbox puller multi tool' and in this readme file i will tell you how to log on and basic stuff like that.
 
 Login
