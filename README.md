@@ -26,12 +26,18 @@ there will also be other files with this tool (e.g. xbox_lookup) to use these ju
 
 **AND LAST THING!!!**
 
-                      SUB TO MY CHANNEL
-==============================================================
--->https://www.youtube.com/channel/UCkP2YjZfvZIfArYbAUyRLsg<--
+                    **SUB TO MY CHANNEL**
+
 ==============================================================
 
-                    PLEASE VISIT MY WEBSITE
+-->https://www.youtube.com/channel/UCkP2YjZfvZIfArYbAUyRLsg<--
+
 ==============================================================
+
+              **🌐 PLEASE VISIT MY WEBSITE 🌐**
+
+==============================================================
+
 -------------->123xboxlookup.000webhostapp.com<---------------
+
 ==============================================================
