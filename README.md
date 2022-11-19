@@ -37,6 +37,6 @@ there will also be other files with this tool (e.g. xbox_lookup) to use these ju
 
 ================================================
 
--------------->123xboxlookup.000webhostapp.com<---------------
+-------->https://123xboxlookup.000webhostapp.com<---------
 
 ================================================
