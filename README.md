@@ -1,6 +1,6 @@
 #README.md
 
-!(https://cdn.discordapp.com/attachments/955255950841905244/1043623725376999534/illuminati_with_xbox_logo-8.png)
+<img src="C:\Users\PC\Desktop\illuminati with xbox logo-8"
 
 Welcome to the 'Xbox puller multi tool' and in this readme file i will tell you how to log on and basic stuff like that.
 
