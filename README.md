@@ -1,5 +1,3 @@
-#README.md
-
 ![Screenshot 2022-11-19 204158](https://user-images.githubusercontent.com/117538886/202870878-ff80bee7-05fa-48a5-bbb1-cf36eca45178.jpg)
 
 Welcome to the 'Xbox puller multi tool' and in this readme file i will tell you how to log on and basic stuff like that.
