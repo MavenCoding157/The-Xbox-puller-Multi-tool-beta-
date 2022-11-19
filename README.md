@@ -15,6 +15,7 @@ password: root
 As specified on the tool itself this is not my booter and all the links to the creators github and discord are down below:
 
 Layer4 creators Github: https://github.com/billythegoat356
+
 Layer4 creators Discord: https://discord.gg/plague
 
 🖹 **Extra info** 🖹
@@ -26,16 +27,16 @@ there will also be other files with this tool (e.g. xbox_lookup) to use these ju
 
                     **SUB TO MY CHANNEL**
 
-==============================================================
+====================================================
 
 -->https://www.youtube.com/channel/UCkP2YjZfvZIfArYbAUyRLsg<--
 
-==============================================================
+====================================================
 
               **🌐 PLEASE VISIT MY WEBSITE 🌐**
 
-==============================================================
+====================================================
 
 -------------->123xboxlookup.000webhostapp.com<---------------
 
-==============================================================
+====================================================
