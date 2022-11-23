@@ -1,0 +1,14 @@
+IP: example
+ISP: example
+Country: example
+County/State: example
+Phone number: example
+Town/City: example
+Address: example
+Coordinates: example
+Post code: example
+Connection type: example
+Name: example
+Age: example
+Sex: example
+Extra notes: example
