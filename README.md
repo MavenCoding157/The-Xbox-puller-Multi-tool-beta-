@@ -24,6 +24,8 @@ there will also be other files with this tool (e.g. xbox_lookup) to use these ju
 
 Also the main screen of the xbox puller should fit any resolution from 1600x900 - 1920x1080. But if you have a laptop which uses a resolution which is zoomed in (e.g. 150% or 125%) then you will need to turn it back down to 100% to use.
 
+And also this tool may be subject to change so if you download it and it has more options than showcased here, that is why.
+
 **LEGAL NOTICE**
 
 THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL USE ONLY! IF YOU ENGAGE IN ANY ILLEGAL ACTIVITY THE AUTHOR DOES NOT TAKE ANY RESPONSIBILITY FOR IT. BY USING THIS SOFTWARE YOU AGREE WITH THESE TERMS.
